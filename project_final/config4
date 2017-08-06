@@ -1,0 +1,7 @@
+21: :red;blue;green
+22:21:red;yellow
+23:22:red;green;orange
+24:22 23:green
+25:21 22 24:violet;red
+26:23 25:pink
+27:21 25 26:hussain

@@ -1,0 +1,5 @@
+1: :red
+2:1:yellow
+3:2:green
+4:2 3:yellow;orange
+5:3:blue

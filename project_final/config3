@@ -1,0 +1,6 @@
+1: :orange;brown;purple
+2:1:yellow;turqoise
+3:1:red;green;orange
+4:1 2:green
+5:1 3 4:violet;red
+6:2 3 4 5:pink
